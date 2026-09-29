@@ -25,6 +25,7 @@ A project using IoT sensors to collect and work with real-time data.
 ### Python Interactive Project
 
 A small interactive project developed using Python.
+Projects section updated for portfolio.
 
 ## Certifications
 
